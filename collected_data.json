@@ -1,0 +1,19 @@
+{
+    "email_data": {},
+    "web_data": {},
+    "system_metrics": {
+        "cpu_percent": 16.3,
+        "memory_percent": 80.1,
+        "disk_usage": 94.4,
+        "network_stats": {
+            "bytes_sent": 4274728629,
+            "bytes_recv": 4186151851,
+            "packets_sent": 5396764,
+            "packets_recv": 4969399,
+            "errin": 0,
+            "errout": 0,
+            "dropin": 0,
+            "dropout": 0
+        }
+    }
+}
